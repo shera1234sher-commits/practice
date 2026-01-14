@@ -4,3 +4,5 @@ c=a+b
 print(c)
 d=a*3
 print(d)
+e=len(c)
+print(e)
